@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**nikitaj4/nikitaj4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a little about me:
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Kubernetes, DevOps, and Cloud Technologies**.
+- 🔭 I’m working on a **Terraform and cicd pipeline project** hosted on AKS.
+- 🛠️ My skillset includes **Terraform, Docker, Kubernetes, Azure, and CI/CD pipelines**.
+- 📫 How to reach me: [nikita.dxn95@gmail.com](nikita.dxn95@gmail.com)
+- ⚡ Fun fact: I love solving tech puzzles and automating workflows!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌟 Featured Projects
+wip
